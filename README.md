@@ -1,3 +1,5 @@
+PROJECT TITLE-REAL ESTATE CRUD MANAGER 
+
 The Real Estate CRUD Manager is a Python-based console application built to manage and organize real estate property records in a simple and efficient way.
 CRUD stands for Create, Read, Update, and Delete, which are the four basic operations required for managing data in any system. This project simulates a very small real estate management system where the user can store multiple property details and perform various operations through a clean menu-driven interface.
 This application allows users to add properties by entering information such as Property ID, Address, Price, and Owner Name.
@@ -22,42 +24,30 @@ Although simple, this project can be expanded further by adding features like sa
 Overall, the Real Estate CRUD Manager provides a solid foundation for learning how real-world data management systems operate.
 
 Features
-Add new property details
-
-View all stored property records
-
-Update a property using its ID
-
-Delete a property using its ID
-
-Simple menu-driven interface
-
-Beginner-friendly Python code
+1.Add new property details
+2.View all stored property records
+3.Update a property using its ID
+4.Delete a property using its ID
+5.Simple menu-driven interface
+6.Beginner-friendly Python code
 
 Technologies Used
-Python 3
-Console-based input/output
+1.Python language 
+2.Console-based input/output
 
 How to Run
-
 1. Clone the repository:
-
-git clone https://github.com/yourusername/your-repository-name.git
-
-
+git clone https://github.com/aashi-payasi/project-real-crud-manager.git
 2. Go to the project folder:
-
 cd your-repository-name
-
-
 3. Run the Python file:
-
 python real_estate_manager.py
 
-📂 Project Structure
+screenshot of program running in terminal 
+C:\Users\bhoomika payasi\Pictures\Screenshots\Screenshot 2025-11-21 232959.png
 
-real_estate_manager.py   # Main CRUD application
-README.md                # Project description
+
+
 
 License
 This project is open-source and free to use for learning purposes
